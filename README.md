@@ -1,4 +1,4 @@
-<!---
+this is biomedical vision language model<!---
 Copyright 2022 The OFA-Sys Team. 
 Copyright 2023 Kai Zhang @ Lehigh. 
 All rights reserved.
